@@ -1,0 +1,15 @@
+{
+    "app_id": 18933,
+    "api_token": "IFegqFwrajbPOvN",
+    "base_bet": 1,
+    "barrier": 0.1,
+    "steps": 3,
+    "chart_length": 10,
+    "y": 0.06,
+    "pause": 1,
+    "wait": 1,
+    "parameters": {
+        "symbol": "R_75",
+        "basis": "stake"
+    }
+}
